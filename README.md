@@ -16,9 +16,8 @@
 crafting:
   [
     "SaaS",
-    "Monolith",
-    "Microservices",
-    "APIs (REST, GraphQL, gRPC, JSON-RPC)"
+    "APIs (REST, GraphQL, gRPC, JSON-RPC)",
+    "CLIs"
   ]
 using:
   [
@@ -44,17 +43,6 @@ and_learning:
     "LLMs",
     "Distributed Ledger Technologies"
   ]
-for_the_long_term:
-  [
-    "Quantum Computing",
-    "Maths",
-    "Physics",
-    "Computational Finance",
-    "Quantitative Finance",
-    "Biology/Biotech",
-    "Mechanical Engineering",
-    "Aerospace"
-  ]
 everyday_enjoying:
   [
     "Thinking and playing with ideas",
@@ -67,7 +55,7 @@ living_good_times:
     "Family and friends",
     "Road, Outdoor",
     "Sartorial",
-    "Classy british cars",
+    "British cars",
     "Chess",
     "Blackjack",
     "Reading"
