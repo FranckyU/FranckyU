@@ -20,7 +20,7 @@ crafting:
     "Microservices",
     "APIs (Rest, GraphQL, gRPC, JSON-RPC)"
   ]
-with_technologies:
+using:
   [
     "Ruby/RoR",
     "Elixir-OTP",
@@ -31,14 +31,14 @@ with_technologies:
     "Go/Rust/Zig",
     "Python"
   ]
-and_exploring:
+also_exploring:
   [
     "Data Science",
     "Devops",
     "UI/UX",
     "Exotic techs: q/kdb+, Shakti, LISPs(CL, Racket, Shen, Clojure)"
   ]
-also_learning:
+and_learning:
   [
     "AI/ML",
     "LLMs",
