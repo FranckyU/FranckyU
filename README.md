@@ -18,7 +18,7 @@ crafting:
     "SaaS",
     "Monolith",
     "Microservices",
-    "APIs (Rest, GraphQL, gRPC, JSON-RPC)"
+    "APIs (REST, GraphQL, gRPC, JSON-RPC)"
   ]
 using:
   [
