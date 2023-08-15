@@ -64,12 +64,13 @@ everyday_enjoying:
   ]
 living_good_times:
   [
-    "Family",
-    "Sartorial",
+    "Family and friends",
     "Road, Outdoor",
+    "Sartorial",
     "Classy british cars",
     "Chess",
-    "Blackjack"
+    "Blackjack",
+    "Reading"
   ]
 ```
 
