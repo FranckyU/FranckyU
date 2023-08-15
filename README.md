@@ -2,7 +2,7 @@
 
 *I'm a T-shaped engineer crafting great code with good balance from this savory remote location.*
 
-My core skills orbit around Full-Stack SaaS platforms engineering.
+My core skills orbit around **Full-Stack SaaS platforms engineering**.
 
 I work fully remote from GMT+3 collaborating with great teammates around the :earth_americas: stretching from US-PST to far-east Asia.
 
@@ -15,7 +15,7 @@ My latest **Founding-Engineer** endeavors can be seen at <a href="https://apidoj
 ```yml
 crafting:
   [
-    "Full-Stack SaaS Engineering",
+    "SaaS",
     "Monolith",
     "Microservices",
     "APIs (Rest, GraphQL, gRPC, JSON-RPC)"
