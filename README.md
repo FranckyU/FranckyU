@@ -8,6 +8,8 @@
 
 🚀 I took key roles as **Senior/Lead/CTO** within US/EU/MENA based companies for the past 8+ years. My latest **Founding-Engineer** endeavors can be seen at <a href="https://apidojo.com" target="_blank">Apidojo</a> and <a href="https://conflexity.com" target="_blank">Conflexity</a>
 
+---
+
 ### Let's simply map it...
 
 ```yml
@@ -75,6 +77,8 @@ living_good_times:
 ### ... or picture it
 
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,bsd,git,github,gitlab,graphql,postgres,mysql,redis,mongodb,ruby,rails,elixir,py,js,ts,coffeescript,nodejs,react,svelte,jquery,docker,kubernetes,go,rust,zig,crystal,html,css,sass,tailwind,clojure,regex,solidity,ai)](https://skillicons.dev) 
+
+---
 
 ### Get in touch
 
