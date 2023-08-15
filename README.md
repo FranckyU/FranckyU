@@ -4,7 +4,9 @@
 
 My core skills orbit around Full-Stack SaaS platforms engineering.
 
-I took key roles as **Senior/Lead/CTO** for the past 8+ years. I work fully remote from GMT+3 collaborating with great teammates around the :earth_americas: stretching from US-PST to far-east Asia.
+I work fully remote from GMT+3 collaborating with great teammates around the :earth_americas: stretching from US-PST to far-east Asia.
+
+I took key roles as **Senior/Lead/CTO** within US/EU/MENA based companies for the past 8+ years.
 
 My latest **Founding-Engineer** endeavors can be seen at <a href="https://apidojo.com" target="_blank">Apidojo</a> and <a href="https://conflexity.com" target="_blank">Conflexity</a>
 
