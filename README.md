@@ -1,14 +1,12 @@
-# Andy, 👋 from the exotic island of Madagascar!
+# Andy, I am into building SaaS
 
-*I'm a T-shaped engineer crafting great code with good balance from this savory remote location.* 🌴 🌞
+*I'm a T-shaped type of engineer, enjoying to build solid solutions to answer real world technological challenges. 
 
 ⚛️ My core skills orbit around **Full-Stack SaaS platforms engineering**.
 
-🌍 I work fully remote from GMT+3 collaborating with great teammates around the globe stretching from US-PST to far-east Asia.
+🌍 I work fully remote collaborating with great teams around the globe stretching from US-PST to far-east Asia.
 
 🚀 I took key roles as **Senior/Lead/CTO** within US/EU/MENA based companies for the past 10+ years. My latest **Founding-Engineer** endeavors can be seen at <a href="https://apidojo.com" target="_blank">Apidojo</a>
-
-
 
 ### Let's simply map it...
 
@@ -21,19 +19,14 @@ crafting:
   ]
 using:
   [
-    "Ruby/RoR",
+    "Ruby",
+    "Ruby on Rails"
     "Elixir-OTP",
-    "NodeJS/Javascript/Typescript",
-    "Hotwire",
-    "LiveView",
-    "React/Svelte/Elm",
-    "Go/Rust/Zig",
-    "Python"
+    "Phoenix"
   ]
 also_exploring:
   [
-    "Data Science",
-    "Devops",
+    "Infrastructure",
     "UI/UX",
     "Exotic techs: q/kdb+, Shakti, LISPs(CL, Racket, Shen, Clojure)"
   ]
