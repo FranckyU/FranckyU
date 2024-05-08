@@ -1,6 +1,6 @@
 # Andy, I am into building SaaS
 
-*I'm a T-shaped type of engineer, enjoying to build solid solutions to answer real world technological challenges. 
+*I'm a T-shaped type of engineer, enjoying to build solid solutions to answer real world technological challenges.*
 
 ⚛️ My core skills orbit around **Full-Stack SaaS platforms engineering**.
 
