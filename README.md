@@ -1,4 +1,4 @@
-# Andy, SaaS Platform Architect
+# Andy | SaaS Platform Architect | Founding Engineer
 
 ### Get in touch
 
