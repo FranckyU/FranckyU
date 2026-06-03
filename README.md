@@ -1,6 +1,6 @@
-# Andy | Founding Engineer
+# Andy // Senior Fullstack Engineer // Remote // Ruby ● Rails ● Hotwire ● SaaS ● REST APIs ● Scalable architectures
 
-### Get in touch
+### Connect
 
 [:email: Email](mailto:andyu.kifer@gmail.com)
 
