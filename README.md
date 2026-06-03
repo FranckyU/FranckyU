@@ -1,7 +1,9 @@
-# Andy // Senior Fullstack Engineer // Remote // Ruby ● Rails ● Hotwire ● SaaS ● REST APIs ● Scalable architectures
+# Andy // Senior Fullstack Engineer // Remote
 
-### Connect
+## Ruby ● Rails ● Hotwire ● SaaS ● REST APIs ● Scalable architectures
+
+### Let's connect
 
 [:email: Email](mailto:andyu.kifer@gmail.com)
 
-[:100: Connect](https://www.linkedin.com/in/rfrancky/)
+[:100: Linkedin](https://www.linkedin.com/in/rfrancky/)
