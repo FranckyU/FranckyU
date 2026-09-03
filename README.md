@@ -1,3 +1,3 @@
 # Andy // Welcome here!
 
-## Ruby → Rails → SaaS → and other stuff
+## Ruby → Rails → SaaS → AI/ML → and other stuff
