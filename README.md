@@ -2,7 +2,7 @@
 
 ```ruby
 mostly(["Ruby", "Rails"])
-  .with_some_bits_of(
+  .with_a_stakes_in(
     [
       "Elixir",
       "Python",
