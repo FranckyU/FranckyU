@@ -12,7 +12,8 @@ I.daily do
         "Rust"
       ]
     )
-    .to_build(["SaaS", "AI/ML"])
-    .and_also(["other stuff"])
+    .to_build("SaaS", "AI/ML")
+    .and_also("other stuff")
+    .with("fun", "passion", "dedication")
 end
 ```
