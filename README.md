@@ -12,7 +12,7 @@ I.daily do
         "Rust"
       ]
     )
-    .then(["SaaS", "AI/ML"])
-    .and(["other stuff"])
+    .to_build(["SaaS", "AI/ML"])
+    .and_also(["other stuff"])
 end
 ```
