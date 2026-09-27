@@ -1,4 +1,4 @@
-# Andy // Welcome here!
+# Welcome here!
 
 ```ruby
 I.daily do
