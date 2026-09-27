@@ -1,3 +1,3 @@
 # Andy // Welcome here!
 
-**Ruby/Rails, Elixir/Phoenix, Python, Clojure, Golang, Rust → SaaS → AI/ML → and other stuff**
+**mostly[Ruby/Rails] + some_bits_of[Elixir/Phoenix, Python, Clojure, Golang, Rust] → SaaS → AI/ML → and other stuff**
