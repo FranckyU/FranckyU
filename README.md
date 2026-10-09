@@ -14,7 +14,7 @@ I.daily do
     ]
   )
 
-  to_build("SaaS", "AI/ML")
+  to_build("SaaS", "CLI", "AI/ML")
 
   and_also("other stuff")
 
