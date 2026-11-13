@@ -2,22 +2,18 @@
 
 ```ruby
 I.daily do
-  mostly(["Ruby", "Rails"])
+  mostly(["Python", "Ruby"])
 
   with_stakes_in(
     [
-      "Elixir",
-      "Python",
-      "Clojure",
       "Golang",
-      "Rust"
+      "Rust",
+      "Elixir"
+      "Clojure",
     ]
   )
 
-  to_build("SaaS", "CLI", "AI/ML")
-
-  and_also("other stuff")
-
+  to_build("AI/ML", "SaaS", "CLI")
   with("fun", "passion", "dedication")
 end
 ```
